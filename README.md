@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @nipunarambukkanage
-
 ## About Me
 
-I am an experienced Full Stack Software Engineer with a passion for innovation and collaborative development in dynamic environments. My expertise lies in creating scalable solutions at the intersection of front-end and back-end systems. With proficiency in .NET, React, Angular, Node.js, and cloud technologies, along with skills in Azure DevOps, Kubernetes, and CI/CD practices, I am dedicated to delivering high-quality software solutions.
+👋 Hi, I’m Nipuna Rambukkanage. I am an experienced Full Stack Software Engineer with a passion for innovation and collaborative development in dynamic environments. My expertise lies in creating scalable solutions at the intersection of front-end and back-end systems. With proficiency in .NET, React, Angular, Node.js, and cloud technologies, along with skills in Azure DevOps, Kubernetes, and CI/CD practices, I am dedicated to delivering high-quality software solutions.
 
 ## Skills
 
